@@ -8,19 +8,18 @@ RDEO — RDKit External Optimization
         ║│    ▓   ║│   ▓   ║│       ║│    ▓         
         ║│     ▓  ║│▓▓▓    ║│▓▓▓▓▓   ║│▓▓▓          
                                                     
- ░░░░░░░░░░░░░░░░░░░░░"YEEHAW"░░░░░░░░░░░░░░░░░░░░  
- ░                       °o                      ░  
- ░           ()            {)        ()          ░  
- ░             \        c==//\      /            ░  
- ░              \      /   |_|     /             ░  
- ░               \   ,/,   //'    /              ░  
- ░                ()══════||════()               ░  
- ░               /        ~'      \              ░  
- ░              /                  \             ░  
- ░             /    ╔ MOLECULE ╗    \            ░  
- ░   ()------()     ╚ WRANGLER ╝     ()          ░  
- ░                                               ░  
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
+                     "YEEHAW" 
+                        °o                       
+            ()            {)        ()            
+              \        c==//\      /              
+               \      /   |_|     /               
+                \   ,/,   //'    /                
+                 ()══════||════()                 
+                /        ~'      \                
+               /                  \               
+              /    ╔ MOLECULE ╗    \              
+    ()------()     ╚ WRANGLER ╝     ()            
+
                                                     
 
 A batch conformer workflow that takes a list of SMILES and returns a small set of
